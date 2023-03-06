@@ -1,1 +1,1 @@
-# 206-Kubernetis-Microservice-Phonebook
+# 206-Kubernetes-Microservice-Phonebook
